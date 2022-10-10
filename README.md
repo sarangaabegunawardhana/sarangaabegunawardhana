@@ -24,7 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pramodsaranga31@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodsaranga31@gmail.com" height="30" width="40" /></a>
+<a href = "https://www.linkedin.com/in/pramod-saranga-84b72a19a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
