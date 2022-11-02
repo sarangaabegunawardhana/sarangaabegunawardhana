@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "https://www.linkedin.com/in/pramod-saranga-84b72a19a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/saranga-abegunawardhana-84b72a19a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/pramod_saranga"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
